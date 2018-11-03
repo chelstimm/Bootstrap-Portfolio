@@ -1,0 +1,116 @@
+.navbar {
+    background-color: #ffffff;
+    color: #777777;
+    width: 100%;
+    margin: 0 0 30px;
+    height: 80px;
+    border: 2px solid #dddddd;
+    margin-bottom: 80px;
+}
+.navbar-nav {
+    width: 100%;
+    line-height: 80px;
+    text-decoration: none;
+    margin-top: 0px;
+    margin-left: 400px;
+    max-width: 960px;
+}
+
+.navbar-brand {
+    color: white !important;
+    font-size: 24px;
+    font-family: 'Georgia', 'Times', Times New Roman, serif; 
+    font-weight: bold; 
+    text-align: center;
+    background: #4aaaa5;
+    width: 325px;
+    height: 80px;
+    margin-left: 150px;
+    line-height: 70px;
+}
+
+.container {
+    width:100%;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 80px; 
+}
+
+.body-container {
+    width:100%;
+    max-width: 960px;
+    margin: 0 auto;
+    margin-top: 120px;
+    margin-bottom: 80px; 
+}
+
+.gallery-container {
+    width:100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.card-img-top {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.card-title {
+    color: #4aaaa5; 
+    font-size: 22px; 
+    font-family: 'Georgia', 'Times', Times New Roman, serif; 
+    font-weight: bold; 
+    color: #4aaaa5; 
+    background: #ffffff;
+    padding-left: 1
+}
+
+.form-container {
+    background: #ffffff;
+    border-style: solid;
+    border: 1px solid #dddddd;
+    color:#777777; 
+    padding: 20px;
+}
+
+.btn-default {
+    background: #4aaaa5;
+    color: white;
+    width: 120px;
+    padding: 10px;
+}
+
+p {
+    width:100%;
+    margin: 0 auto;
+    padding-left: 10px;
+}
+
+.img-fluid {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 75%;
+    color: white;
+    background: #4aaaa5;
+    padding: 20px;
+    font-size: 18px;
+    width: 300px;
+    margin-left: 82px;
+}
+
+
+.footer {
+    width: 100%;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 0px;
+    background-color: #666666;
+    border-top: 8px solid #4aaaa5;
+    margin-bottom: 0px;
+}
